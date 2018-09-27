@@ -51,8 +51,9 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h1>Hello</h1>
-        <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
+        <h1>MagTech-VA</h1>
+        <p>Hi Everyone,
+Anyone needs *Training/Marketing* in IT for DevOps, AWS, Java/UI, Networking, Hadoop, Salesforce, RPA, Ping Identity Access Management, .NET, AEM, Data Science/AI, Mobile Applications, & *New Technologies like Kotlin, GO, RSA* let us know, we are open to take candidates 365 days.</p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
 </div>
@@ -61,18 +62,18 @@
     <!-- Example row of columns -->
     <div class="row">
         <div class="col-md-4">
-            <h2>Heading</h2>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+            <h2>About Employer</h2>
+            <p>5 branches in USA with base in Atlanta, GA <br> We do very keen and interactive training sessions with real time job tasks from the former working candidates and weekly sessions to go through different infrastructures in various projects where you will be excelled by the time you get the project.</p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
-            <h2>Heading</h2>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+            <h2>About Employer</h2>
+            <p> We market for OPT/CPT/H1/GC status’s with rates above the market rate as of today <br> We are targeting to hit the projects with *MNC’s* with the latest technologies coming in future so this is a huge plus for someone who is interested in achieving something new!! </p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
-            <h2>Heading</h2>
-            <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+            <h2>About Employer</h2>
+            <p>DevOps & AWS is our focus where 350 candidates were placed within a span of 20 months with an avg rate $65/hr <br> All charges during your job search (Accom&Food)will be taken care off.</p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
     </div>
@@ -80,7 +81,7 @@
     <hr>
 
     <footer>
-        <p>&copy; Company 2014</p>
+        <p>&copy; Veridic<br>Contact:Krishna 214-449-8193</p>
     </footer>
 </div> <!-- /container -->
 
@@ -94,3 +95,4 @@
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
 </body>
 </html>
+
