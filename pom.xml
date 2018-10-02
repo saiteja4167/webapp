@@ -31,5 +31,4 @@
 <url>http://52.15.96.185:8081/nexus/content/repositories/snapshots/</url>
 </snapshotRepository>
 </distributionManagement>
-  
-</project>
+  </project>
