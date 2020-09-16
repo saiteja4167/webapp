@@ -1,6 +1,6 @@
 This is a sample Web Application to use during Continuous Integration demos.
 
-#Build Instructionn
+#Build Instructionn releasing new version
 
 ```
 mvn3 clean package
